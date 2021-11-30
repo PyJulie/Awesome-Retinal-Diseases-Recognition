@@ -1,5 +1,8 @@
 # Retinal Diseases Recognition
 This repository includes several retinal diseases recognition tasks including open-set semi-supervised learning, domain adaptation, label noise and long-tailed classification.
+## Todo
+1. Codes release and datasets preparation
+
 ### 1. Open-set Semi-supervised Retinal Diseases Grading.
 
 >@article{ju2021synergic,<br>
