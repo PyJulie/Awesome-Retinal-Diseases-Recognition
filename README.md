@@ -13,7 +13,7 @@ This repository includes several retinal diseases recognition tasks including op
   publisher={IEEE}<br>
 }
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9328568/) [Arxiv](https://arxiv.org/pdf/2003.10607) [code](https://github.com/PyJulie/SALL)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9328568/) [[Arxiv]](https://arxiv.org/pdf/2003.10607) [[code]](https://github.com/PyJulie/SALL)
 
 
 ### 2. Fundus Images Domain Adaptation
